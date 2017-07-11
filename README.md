@@ -1,4 +1,5 @@
-ud120-projects
+Udacity's Intro to Machine Learning
 ==============
 
-Starter project code for students taking Udacity ud120
+This repo contains the solution for projects of ud120
+Starter project code for students taking Udacity ud120.
